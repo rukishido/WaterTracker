@@ -43,7 +43,7 @@ dependencies {
     implementation "androidx.room:room-runtime:$room_version"
     annotationProcessor "androidx.room:room-compiler:$room_version"
     //MaskedEditText
-    compile 'ru.egslava:MaskedEditText:1.0.5'
+    implementation 'ru.egslava:MaskedEditText:1.0.5'
 
 
 }
